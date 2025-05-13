@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "consola": "3.4.2"
+  },
+  "devDependencies": {
+    "typescript": "5.8.3"
   }
 }
