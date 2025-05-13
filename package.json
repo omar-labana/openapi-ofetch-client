@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "description": "",
   "license": "MIT",
-  "type": "module",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node main.ts"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +14,7 @@
     "consola": "3.4.2"
   },
   "devDependencies": {
+    "ts-node": "10.9.2",
     "typescript": "5.8.3"
   }
 }
